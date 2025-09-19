@@ -6,7 +6,7 @@ Coursework repository for **MSBD566 – Predictive Modeling and Analytics**.
 ```
 MSBD566/
 └── Assignment 1/
-    ├── MSBD566_Davis_LaPorchia_Assignment1.ipynb            # Jupyter notebook for Part 1 (with your updates)
+    ├── MSBD566_Davis_LaPorchia_Assignment1.ipynb          
     └── Air_Quality_and_Pollen_Count.csv # Dataset used in the notebook
 ```
 
