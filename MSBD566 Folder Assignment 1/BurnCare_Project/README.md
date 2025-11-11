@@ -43,8 +43,7 @@ and intervention.
 ## Author
 
 **LaPorchia Davis**\
-M.S. Biomedical Data Science Candidate -- Meharry Medical College\
-Assistant Professor -- Tennessee State University
+M.S. Biomedical Data Science Candidate -- Meharry Medical College
 
 ------------------------------------------------------------------------
 
