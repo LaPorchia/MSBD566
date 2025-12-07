@@ -1,5 +1,3 @@
-
----
 ## Project Overview
 
 Severe burn injuries often lead to deeper complications that extend beyond the skin. Many patients develop **fractures**, **bone density loss**, or **osteomyelitis**, which cannot be detected from surface evaluation alone. Early identification is critical for surgical planning, long-term recovery, and clinical decision-making.
@@ -55,7 +53,7 @@ UMAP clusters described in the report (page 7) reveal **5–7 subclusters** driv
 
 ---
 
-## 🔍 Key Findings From the Final Report
+## Key Findings From the Final Report
 
 Based on the full analysis (described in *MSBD566_FinalProject.pdf* :contentReference[oaicite:2]{index=2}):
 
@@ -75,18 +73,18 @@ Based on the full analysis (described in *MSBD566_FinalProject.pdf* :contentRefe
 
 ---
 
-## 📄 Citation  
+## Citation  
 If referencing this project or its contents, please cite the final project report and author:
 
 > Davis, L. (2025). *Integrating Clinical Predictive Modeling and Imaging-Based Analysis to Identify Bone Health Complications in Burn Patients.* MSBD566 Final Project. :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 👩🏽‍⚕️ Author  
+##  Author  
 **LaPorchia Davis**  
 Biomedical Data Science – Meharry SACS   
 
 ---
 
-## 💬 Questions or Improvements?
+## Questions or Improvements?
 Feel free to open an issue or request enhancements to the notebooks or documentation. Contact the research LaPorchia Davis for more information
