@@ -2,7 +2,7 @@
 
 Severe burn injuries often lead to deeper complications that extend beyond the skin. Many patients develop **fractures**, **bone density loss**, or **osteomyelitis**, which cannot be detected from surface evaluation alone. Early identification is critical for surgical planning, long-term recovery, and clinical decision-making.
 
-This project implements a **three-part analytical pipeline** (described in detail in the final report :contentReference[oaicite:1]{index=1}):
+This project implements a **three-part analytical pipeline** (described in detail in the final report):
 
 1. **Clinical Predictive Modeling**  
    - Random Forest Classifier (balanced)  
@@ -76,12 +76,12 @@ Based on the full analysis (described in *MSBD566_FinalProject.pdf* :contentRefe
 ## Citation  
 If referencing this project or its contents, please cite the final project report and author:
 
-> Davis, L. (2025). *Integrating Clinical Predictive Modeling and Imaging-Based Analysis to Identify Bone Health Complications in Burn Patients.* MSBD566 Final Project. :contentReference[oaicite:3]{index=3}
+> Davis, L. (2025). *Integrating Clinical Predictive Modeling and Imaging-Based Analysis to Identify Bone Health Complications in Burn Patients.* MSBD566 Final Project. 
 
 ---
 
 ##  Author  
-**LaPorchia Davis**  
+LaPorchia Davis (MS/PhD)
 Biomedical Data Science – Meharry SACS   
 
 ---
